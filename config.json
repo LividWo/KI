@@ -1,0 +1,10 @@
+{
+    "Token":"xsaZyp5ZmNgGrPky48ME1A",
+    "business_flag": "nlpc",
+    "readable_name": "abaltion",
+    "model_local_file_path": "/apdcephfs/share_916081/zhiyongwu/kgd-fairseq/",
+    "host_num": 1,
+    "host_gpu_num": 2,
+    "GPUName": "V100",
+    "image_full_name": "mirrors.tencent.com/token_level_kgd/kgd-fairseq:latest"
+}
